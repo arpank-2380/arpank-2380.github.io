@@ -7,6 +7,8 @@ search: false
 
 $link-color: blue;
 $masthead-link-color: blue;
+$intro-transition  : none;
+$global-transition : none;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
