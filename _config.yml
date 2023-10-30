@@ -38,7 +38,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-  - _posts  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -60,7 +59,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-github-metadata  
 
 author:
   name   : "Arpan Kundu"
@@ -112,7 +110,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: single
