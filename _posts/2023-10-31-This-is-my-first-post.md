@@ -7,4 +7,4 @@ tags:
   - update
 ---
 
-Hello
+Hello!
