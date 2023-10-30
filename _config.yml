@@ -125,9 +125,9 @@ defaults:
       layout: single
       author_profile: true
 
-publications_archive:
+catagories_archive:
   type: liquid
   path: /publications/
-research_archive:
+tags_archive:
   type: liquid
   path: /research/
