@@ -124,7 +124,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: categories
+      layout: splash
       author_profile: true
 
       #publications_archive:
