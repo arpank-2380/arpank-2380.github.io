@@ -10,7 +10,7 @@ Publications are ordered reverse chronologically.
 13. ![Preview not available!](/assets/images/jctc2023.png)
 **Kundu, A.\*;** Galli, G.\*
 *Quantum vibronic effects on the electronic properties of molecular 
-crystals.* 
+crystals.* \n
 [*J. Chem. Theory Comput.* **2023**, *19(13)*, 4011.](https://doi.org/10.1021/acs.jctc.3c00424) 
 
 
