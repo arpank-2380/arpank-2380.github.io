@@ -124,8 +124,9 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: splash
-      author_profile: true
+      layout: single
+      sidebar:
+              #author_profile: true
 
       #publications_archive:
       #  type: liquid
