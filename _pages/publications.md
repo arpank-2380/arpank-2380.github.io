@@ -7,7 +7,7 @@ title: "Publications"
 
 **The following publications are based on my work at the University of Chicago (2019-Present)**
 
-1. [**Kundu, A.\***; Galli, G.\*
+1. ![**Kundu, A.\***; Galli, G.\*
 *Quantum vibronic effects on the electronic properties of molecular 
 crystals.*](/assets/images/jctc2023.png) 
 [*J. Chem. Theory Comput.* **2023**, *19(13)*, 4011.](https://doi.org/10.1021/acs.jctc.3c00424) 
