@@ -39,7 +39,6 @@ Yang, H; Govoni, M\*; **Kundu, A;** Galli, G.\*
 9. **Quantum simulations of thermally activated delayed fluorescence in an all-organic emitter.**    
 ![Preview not available!](/assets/images/pubs/pccp2022.png)   
 Francese, T.; **Kundu, A.;** Gygi, F; Galli, G.   
-*Quantum simulations of thermally activated delayed fluorescence in an all-organic emitter.*    
 [*Phys. Chem. Chem. Phys*, **2022**, *24*, 10101](https://doi.org/10.1039/D2CP01147F)
 
 
@@ -54,7 +53,6 @@ Yang, H; Govoni, M\*; **Kundu, A;** Galli, G.\*
 7. **Quantum vibronic effects on the electronic properties of solid and molecular carbon.**    
 ![Preview not available!](/assets/images/pubs/prm2021.png)   
 **Kundu, A.\*;** Govoni, M.; Yang, H.; Ceriotti, M.; Gygi, F.; Galli, G.   
-Quantum vibronic effects on the electronic properties of solid and molecular carbon.   
 [*Phys. Rev. Materials* **2021**, *5*, L070801.](https://doi.org/10.1103/PhysRevMaterials.5.L070801)
 
 
@@ -93,7 +91,6 @@ Sillar, K\*; **Kundu, A;** Sauer, J.
 2. **Galvanic replacement of As(0) nanoparticles by Au(iii) for nanogold fabrication and SERS application.**     
 ![Preview not available!](/assets/images/pubs/njc2014.png)
 Pal, A\*; Saha, S; Maji, S. K.; Sahoo, R.; Kundu, M; **Kundu, A.**    
-Galvanic replacement of As(0) nanoparticles by Au(iii) for nanogold fabrication and SERS application.  
 [*New J. Chem.*, **2014**, *38*, 1675.](https://doi.org/10.1039/C3NJ01489D)
 
 
