@@ -89,7 +89,7 @@ Sillar, K\*; **Kundu, A;** Sauer, J.
 
 
 2. **Galvanic replacement of As(0) nanoparticles by Au(iii) for nanogold fabrication and SERS application.**     
-![Preview not available!](/assets/images/pubs/njc2014.png)
+![Preview not available!](/assets/images/pubs/njc2014.png)   
 Pal, A\*; Saha, S; Maji, S. K.; Sahoo, R.; Kundu, M; **Kundu, A.**    
 [*New J. Chem.*, **2014**, *38*, 1675.](https://doi.org/10.1039/C3NJ01489D)
 
