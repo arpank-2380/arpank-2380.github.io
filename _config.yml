@@ -124,7 +124,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: collections
+      layout: single
       sidebar:
       author_profile: true
 
