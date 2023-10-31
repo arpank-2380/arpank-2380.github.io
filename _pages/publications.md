@@ -7,22 +7,26 @@ Publications are ordered reverse chronologically.
 
 \* =  Corresponding Author
 
-13. ![Preview not available!](/assets/images/pubs/jctc2023.png)   
+13. *Quantum vibronic effects on the electronic properties of molecular crystals.* 
+![Preview not available!](/assets/images/pubs/jctc2023.png)   
 **Kundu, A.\*;** Galli, G.\*   
-*Quantum vibronic effects on the electronic properties of molecular crystals.*   
 [*J. Chem. Theory Comput.* **2023**, *19(13)*, 4011.](https://doi.org/10.1021/acs.jctc.3c00424) 
 
 
-12. ![Preview not available!](/assets/images/pubs/jpcc2023.png)  
-Sillar, K\*; **Kundu, A\*;** Sauer, J.   
-*Ab Initio Prediction of Adsorption Selectivities for Binary Gas Mixtures on a
+
+12. *Ab Initio Prediction of Adsorption Selectivities for Binary Gas Mixtures on a
 Heterogeneous Metal-Organic Framework Surface.*   
+![Preview not available!](/assets/images/pubs/jpcc2023.png)  
+Sillar, K\*; **Kundu, A\*;** Sauer, J.   
 [*J. Phys. Chem. C* **2023**, 127, 13317.](https://doi.org/10.1021/acs.jpcc.3c02494)
 
-11. ![Preview not available!](/assets/images/pubs/jctc2022.png)   
+
+
+11. *Computational Protocol to Evaluate Electron–Phonon Interactions Within Density Matrix Perturbation Theory.*
+![Preview not available!](/assets/images/pubs/jctc2022.png)   
 Yang, H; Govoni, M\*; **Kundu, A;** Galli, G.\*   
-*Computational Protocol to Evaluate Electron–Phonon Interactions Within Density Matrix Perturbation Theory.*   
 [*J. Chem. Theory Comput.* **2022**, *18(10)*, 6031.](https://doi.org/10.1021/acs.jctc.2c00579)
+
 
 
 10. ![Preview not available!](/assets/images/pubs/pnas2022.png)   
