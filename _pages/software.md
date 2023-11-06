@@ -12,7 +12,7 @@ my research work.
 
 I developed the following three open-source packages.
 
-### 1. ![PyEPFD](https://github.com/arpank-2380/PyEPFD/raw/master/docs/source/pyepfd_logo.png)
+### 1. PyEPFD![](https://github.com/arpank-2380/PyEPFD/raw/master/docs/source/pyepfd_logo.png)
 
 PyEPFD [code repository](https://github.com/arpank-2380/PyEPFD) 
 stands for a Python Library for Electron-Phonon coupling
