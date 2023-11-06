@@ -1,5 +1,5 @@
 ---
-permalink: /softwares/
+permalink: /software/
 title: "Software"
 excerpt: "Packages I develop and other commercial and open-source packages I use."
 toc: true
