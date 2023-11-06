@@ -110,13 +110,13 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      #comments: true
       share: true
       related: true
   # _pages
@@ -126,6 +126,9 @@ defaults:
     values:
       layout: single
       sidebar:
+      read_time: true 
+      share: true
+      related: true      
       author_profile: true
 
       #publications_archive:
