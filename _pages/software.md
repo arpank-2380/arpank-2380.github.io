@@ -12,7 +12,9 @@ my research work.
 
 I developed the following three open-source packages.
 
-### 1. PyEPFD![](https://github.com/arpank-2380/PyEPFD/raw/master/docs/source/pyepfd_logo.png)
+### 1. PyEPFD
+![](https://github.com/arpank-2380/PyEPFD/raw/master/docs/source/pyepfd_logo.png){: style="margin-top: 0.5em;"}
+
 
 PyEPFD [code repository](https://github.com/arpank-2380/PyEPFD) 
 stands for a Python Library for Electron-Phonon coupling
@@ -35,7 +37,7 @@ Midwest Integrated Center for Computational Materials
 ([MICCoM](https://miccom-center.org/)) 
 
 ### 2. LGCMC
-![Image](https://github.com/arpank-2380/LGCMC/raw/master/LGCMC-logo.png)
+![](https://github.com/arpank-2380/LGCMC/raw/master/LGCMC-logo.png)
 
 LGCMC ([code repository](https://github.com/arpank-2380/LGCMC)) is a open-source FORTRAN package for Lattice Grand Canonical Monte Carlo Simulation for *ab initio* prediction of pure and mixed gas isotherms.
 
@@ -64,7 +66,7 @@ any approximations, such as mean-field approximation.
 **Acknowledgement:** Development of LGCMC (2013-2017) was supported by [International Max Planck Research School “Functional Interfaces in Physics and Chemistry”](https://www.fhi.mpg.de/imprs) and German Science Foundation ([DFG](https://gepris.dfg.de/gepris/projekt/172559843?language=en)) within the priority program 1570 “Porous media”.  
 
 ### 3. iPI-Qbox interface API
-[Image](https://github.com/arpank-2380/ipi-qbox-interface/raw/master/ipi-qbox-logo.png)
+![](https://github.com/arpank-2380/ipi-qbox-interface/raw/master/ipi-qbox-logo.png)
 
 This is an open source application program interface (API) designed to couple [Qbox](http://qboxcode.org/), a 
 first principle molecular dynamics code with [i-PI](http://ipi-code.org/), 
