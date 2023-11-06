@@ -3,6 +3,8 @@ permalink: /software/
 title: "Software"
 excerpt: "Packages I develop and other commercial and open-source packages I use."
 toc: true
+toc_sticky: true
+toc_icon: Software
 ---
 Here you will find the computational chemistry/physics/materials-science packages 
 that I developed and also the commercial/open-source packages I routinely use for 
