@@ -7,6 +7,11 @@ toc_sticky: true
 toc_icon: cv
 ---
 ## Current Affiliation
+[![HU-Logo](/assets/images/logos/uc-logo.png){: .align-right}](https://pme.uchicago.edu/)
+   Post-doctoral Scholar    
+   [Galli Group](https://galligroup.uchicago.edu/)  
+   Pritzker School of Molecular Engineering    
+   The University of Chicago   
 
 ## Education
 [![HU-Logo](/assets/images/logos/HU_logo.png){: .align-right}](https://www.chemie.hu-berlin.de/en/forschung-en/standardseite-en)
