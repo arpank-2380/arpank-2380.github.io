@@ -16,12 +16,18 @@ toc_icon: cv
   **Grade:** *summa cum laude*    
   **Dissertation:** [Ab initio prediction of isotherms for pure and mixed gas adsorption in metal-organic frameworks](http://dx.doi.org/10.13140/RG.2.2.16512.58882)
 
-[![IITK-Logo](https://www.iitk.ac.in/new/images/page-images/logo/bluelog.jpg){: .align-right}](https://www.iitk.ac.in/chm/)
-+ **M.Sc (2011)**   
+[![IITK-Logo](/assets/images/logos/iitk-logo.png){: .align-right}](https://www.iitk.ac.in/chm/)
++ **M.Sc. (2011)**   
   IIT Kanpur    
   **Dicipline:** Chemistry     
   **GPA:** 9.7/10 (1<sup>st</sup> rank)     
   **Thesis:** [Dynamical behavior of supercritical aqueous solutions: Orientational motion and angular jumps](http://dx.doi.org/10.13140/RG.2.2.10428.10884)
+
+[![JU-Logo](/assets/images/logos/ju-logo.png){: .align-right}](https://jadavpuruniversity.in/)
++  **B.Sc. (2009)**   
+   Jadavpur University   
+   **Dicipline:** Chemistry(Major), Physics, Mathematics, Computer Programming    
+   **Marks:** 78%
 
 ## Experience
 
