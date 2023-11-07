@@ -10,17 +10,17 @@ toc_icon: cv
 
 ## Education
 ![HU-Logo](/assets/images/logos/HU_logo.png){: .align-right}
-+ **Ph.D. (2018)** 
-  Humboldt-Universitat zu Berlin
++ **Ph.D. (2018)**     
+  Humboldt-Universitat zu Berlin    
   **Dicipline:** Theoretical and Physical Chemistry    
-  **Grade:** *summa cum laude*
+  **Grade:** *summa cum laude*    
   **Dissertation:** [Ab initio prediction of isotherms for pure and mixed gas adsorption in metal-organic frameworks](http://dx.doi.org/10.13140/RG.2.2.16512.58882)
 
 ![HU-Logo](/assets/images/logos/HU_logo.png){: .align-right}
 + **M.Sc (2011)**   
-  Indian Institute of Technology(IIT) Kanpur  
-  **Dicipline:** Chemistry
-  **GPA:** 9.7/10 (1<sup>st</sup> rank)   
+  Indian Institute of Technology(IIT) Kanpur    
+  **Dicipline:** Chemistry     
+  **GPA:** 9.7/10 (1<sup>st</sup> rank)     
   **Thesis:** [Dynamical behavior of supercritical aqueous solutions: Orientational motion and angular jumps](http://dx.doi.org/10.13140/RG.2.2.10428.10884)
 
 ## Experience
