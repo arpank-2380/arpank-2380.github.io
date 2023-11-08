@@ -87,24 +87,22 @@ These simulations are extreamely useful to simulate nuclear quantum effects from
 ## Commercial and open-source packages I use 
 
 ### 1. *Ab-initio* packages:
-[![Qbox](http://qboxcode.org/doc/html/_static/qbox_logo_simple_short.png)](http://qboxcode.org/)
-[![Quantum Espresso](https://www.quantum-espresso.org/wp-content/uploads/2022/03/quantum_ogo_ok.png)](https://www.quantum-espresso.org/)
-[![VASP](https://www.vasp.at/images/logo.png)](https://www.vasp.at/)
-[![WEST](https://west-code.org/images/poster.png)](https://west-code.org/)
-[Turbomole![](https://www.turbomole.org/wp-content/uploads/2019/10/cropped-logowwww-1.png)](https://www.turbomole.org/)
+[![Qbox](http://qboxcode.org/doc/html/_static/qbox_logo_simple_short.png)](http://qboxcode.org/)   
+[![Quantum Espresso](https://www.quantum-espresso.org/wp-content/uploads/2022/03/quantum_ogo_ok.png)](https://www.quantum-espresso.org/)    
+[![VASP](https://www.vasp.at/images/logo.png)](https://www.vasp.at/)     
+[![WEST](https://west-code.org/images/poster.png)](https://west-code.org/)     
+[Turbomole![](https://www.turbomole.org/wp-content/uploads/2019/10/cropped-logowwww-1.png)](https://www.turbomole.org/)     
 
-### 2. *Molecular Simulation* packages:
-[![i-PI](https://ipi-code.org/images/ipi-logo-alpha.png)](https://ipi-code.org/)
-[![LAMMPS](https://www.lammps.org/movies/logo.gif)](https://www.lammps.org/#gsc.tab=0)
+### 2. *Molecular Simulation* packages:  
+[![i-PI](https://ipi-code.org/images/ipi-logo-alpha.png)](https://ipi-code.org/)     
+[![LAMMPS](https://www.lammps.org/movies/logo.gif)](https://www.lammps.org/#gsc.tab=0)     
 
-### 3. Visualization Tools:
-[![VMD](https://www.ks.uiuc.edu/Research/vmd/images/vmd_logo_left.gif)](https://www.ks.uiuc.edu/Research/vmd/)
-[![VESTA](https://jp-minerals.org/vesta/img/banner-logo.png)](https://jp-minerals.org/vesta/en/)
-[![XCrySDen](http://www.xcrysden.org/img/xcrysden-blue-new.jpg)](http://www.xcrysden.org/)
-[![Jmol](https://jmol.sourceforge.net/images/Jmol_JSmol_logo.png)](https://jmol.sourceforge.net/)
+### 3. Visualization Tools:    
+[![VMD](https://www.ks.uiuc.edu/Research/vmd/images/vmd_logo_left.gif)](https://www.ks.uiuc.edu/Research/vmd/)    
+[![VESTA](https://jp-minerals.org/vesta/img/banner-logo.png)](https://jp-minerals.org/vesta/en/)    
+[![XCrySDen](http://www.xcrysden.org/img/xcrysden-blue-new.jpg)](http://www.xcrysden.org/)    
+[![Jmol](https://jmol.sourceforge.net/images/Jmol_JSmol_logo.png)](https://jmol.sourceforge.net/)    
 
 ### 4. Analysis Tools:
-[TRAVIS](http://www.travis-analyzer.de/)
-[![MDAnalysis](https://www.mdanalysis.org/public/mdanalysis-logo_square.png)](https://www.mdanalysis.org/)
-
-
+[TRAVIS](http://www.travis-analyzer.de/)    
+[![MDAnalysis](https://www.mdanalysis.org/public/mdanalysis-logo_square.png)](https://www.mdanalysis.org/)   
