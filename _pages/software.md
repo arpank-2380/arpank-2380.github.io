@@ -88,13 +88,14 @@ These simulations are extreamely useful to simulate nuclear quantum effects from
 
 ### 1. *Ab-initio* packages:   
 
-[![Qbox](http://qboxcode.org/doc/html/_images/qbox_logo.png)](http://qboxcode.org/)   
+[![Qbox](assets/image/logos/qbox.png)](http://qboxcode.org/)   
 
 [![Quantum Espresso](https://www.quantum-espresso.org/wp-content/uploads/2022/03/quantum_ogo_ok.png)](https://www.quantum-espresso.org/)    
 
 [![WEST](https://west-code.org/images/poster.png)](https://west-code.org/)
 
 [![VASP](https://www.vasp.at/images/logo.png)](https://www.vasp.at/)     
+
 [TURBOMOLE![](/assets/images/logos/turbomole.png)](https://www.turbomole.org/)     
 
      
@@ -108,7 +109,7 @@ These simulations are extreamely useful to simulate nuclear quantum effects from
 
 [![VMD](https://www.ks.uiuc.edu/Research/vmd/images/vmd_logo_left.gif)](https://www.ks.uiuc.edu/Research/vmd/)    
 
-[![VESTA](https://jp-minerals.org/vesta/img/banner-logo.png)](https://jp-minerals.org/vesta/en/)    
+[![VESTA](assets/images/logos/vesta.png)](https://jp-minerals.org/vesta/en/)    
 
 [![XCrySDen](http://www.xcrysden.org/img/xcrysden-blue-new.jpg)](http://www.xcrysden.org/)     
 
