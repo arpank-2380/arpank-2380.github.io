@@ -5,6 +5,7 @@ excerpt: "Curriculam Vitae."
 toc: true
 toc_sticky: true
 toc_icon: cv
+toc_label: "CV"
 ---
 ## Current Affiliation
 [![UC-logo](/assets/images/logos/uc-logo.png){: .align-right}](https://pme.uchicago.edu/)
