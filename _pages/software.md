@@ -98,9 +98,11 @@ These simulations are extreamely useful to simulate nuclear quantum effects from
 
 [<figure style="width: 300px" class="align-left">
   <img src="https://www.turbomole.org/wp-content/uploads/2019/10/cropped-logowwww-1.png" alt="">
-  <figcaption>[Turbomole]</figcaption>
-</figure>](https://www.turbomole.org/)    
+  <figcaption>Turbomole</figcaption>
+  <a href="https://www.turbomole.org/"></a>
+</figure>
 
+     
 
 ### 2. *Molecular Simulation* packages:  
 
