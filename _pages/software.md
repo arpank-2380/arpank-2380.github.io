@@ -5,7 +5,7 @@ excerpt: "Packages I develop and other commercial and open-source packages I use
 toc: true
 toc_sticky: true
 toc_icon: tools
-toc_labels: Software
+toc_labels: "Software"
 ---
 Here you will find the tools I uses for my research. This includes the computational chemistry/physics/materials-science packages that I developed and also the commercial/open-source packages I routinely use for 
 my research work.
@@ -87,7 +87,7 @@ These simulations are extreamely useful to simulate nuclear quantum effects from
 ## Commercial and open-source packages I use 
 
 ### 1. *Ab-initio* packages:
-[![Qbox](http://qboxcode.org/doc/html/_static/qbox_logo_simple_short.png)](http://qboxcode.org/)   
+[![Qbox](http://qboxcode.org/doc/html/_images/qbox_logo.png)](http://qboxcode.org/)   
 [![Quantum Espresso](https://www.quantum-espresso.org/wp-content/uploads/2022/03/quantum_ogo_ok.png)](https://www.quantum-espresso.org/)    
 [![VASP](https://www.vasp.at/images/logo.png)](https://www.vasp.at/)     
 [![WEST](https://west-code.org/images/poster.png)](https://west-code.org/)     
