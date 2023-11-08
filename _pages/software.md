@@ -96,7 +96,7 @@ These simulations are extreamely useful to simulate nuclear quantum effects from
 
 [![VASP](https://www.vasp.at/images/logo.png)](https://www.vasp.at/)     
 
-[<figure style="width: 300px" class="align-left">
+<figure style="width: 300px" class="align-left">
   <img src="https://www.turbomole.org/wp-content/uploads/2019/10/cropped-logowwww-1.png" alt="">
   <figcaption>Turbomole</figcaption>
   <a href="https://www.turbomole.org/"></a>
