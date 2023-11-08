@@ -5,7 +5,7 @@ excerpt: "Packages I develop and other commercial and open-source packages I use
 toc: true
 toc_sticky: true
 toc_icon: tools
-toc_labels: "Software"
+toc_label: "Software"
 ---
 Here you will find the tools I use for my research. This includes the computational chemistry/physics/materials-science packages that I developed and also the commercial/open-source packages I routinely use for 
 my research work.
@@ -92,11 +92,15 @@ These simulations are extreamely useful to simulate nuclear quantum effects from
 
 [![Quantum Espresso](https://www.quantum-espresso.org/wp-content/uploads/2022/03/quantum_ogo_ok.png)](https://www.quantum-espresso.org/)    
 
+[![WEST](https://west-code.org/images/poster.png)](https://west-code.org/)
+
 [![VASP](https://www.vasp.at/images/logo.png)](https://www.vasp.at/)     
 
-[![WEST](https://west-code.org/images/poster.png)](https://west-code.org/)     
+<figure style="width: 300px" class="align-left">
+  <img src="https://www.turbomole.org/wp-content/uploads/2019/10/cropped-logowwww-1.png" alt="">
+  <figcaption>[Turbomole](https://www.turbomole.org/)</figcaption>
+</figure> 
 
-[Turbomole![](https://www.turbomole.org/wp-content/uploads/2019/10/cropped-logowwww-1.png)](https://www.turbomole.org/)     
 
 ### 2. *Molecular Simulation* packages:  
 
