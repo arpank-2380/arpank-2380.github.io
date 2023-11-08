@@ -95,15 +95,9 @@ These simulations are extreamely useful to simulate nuclear quantum effects from
 [![WEST](https://west-code.org/images/poster.png)](https://west-code.org/)
 
 [![VASP](https://www.vasp.at/images/logo.png)](https://www.vasp.at/)     
-
-<figure style="width: 300px" class="align-left">
-  <img src="https://www.turbomole.org/wp-content/uploads/2019/10/cropped-logowwww-1.png" alt="">
-  <figcaption>Turbomole</figcaption>
-  <a href="https://www.turbomole.org/"></a>
-</figure>
+[TURBOMOLE![](/assets/images/logos/turbomole.png)](https://www.turbomole.org/)     
 
      
-
 ### 2. *Molecular Simulation* packages:  
 
 [![i-PI](https://ipi-code.org/images/ipi-logo-alpha.png)](https://ipi-code.org/)     
