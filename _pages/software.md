@@ -7,7 +7,7 @@ toc_sticky: true
 toc_icon: tools
 toc_labels: "Software"
 ---
-Here you will find the tools I uses for my research. This includes the computational chemistry/physics/materials-science packages that I developed and also the commercial/open-source packages I routinely use for 
+Here you will find the tools I use for my research. This includes the computational chemistry/physics/materials-science packages that I developed and also the commercial/open-source packages I routinely use for 
 my research work.
   
 ## Packages I develop and maintain
@@ -86,18 +86,21 @@ These simulations are extreamely useful to simulate nuclear quantum effects from
 
 ## Commercial and open-source packages I use 
 
-### 1. *Ab-initio* packages:
-[![Qbox](http://qboxcode.org/doc/html/_images/qbox_logo.png)](http://qboxcode.org/)   
+### 1. *Ab-initio* packages:   
+
+[![Qbox](/assets/images/logos/qbox_logo.png)](http://qboxcode.org/)   
 [![Quantum Espresso](https://www.quantum-espresso.org/wp-content/uploads/2022/03/quantum_ogo_ok.png)](https://www.quantum-espresso.org/)    
 [![VASP](https://www.vasp.at/images/logo.png)](https://www.vasp.at/)     
 [![WEST](https://west-code.org/images/poster.png)](https://west-code.org/)     
 [Turbomole![](https://www.turbomole.org/wp-content/uploads/2019/10/cropped-logowwww-1.png)](https://www.turbomole.org/)     
 
 ### 2. *Molecular Simulation* packages:  
+
 [![i-PI](https://ipi-code.org/images/ipi-logo-alpha.png)](https://ipi-code.org/)     
 [![LAMMPS](https://www.lammps.org/movies/logo.gif)](https://www.lammps.org/#gsc.tab=0)     
 
 ### 3. Visualization Tools:    
+
 [![VMD](https://www.ks.uiuc.edu/Research/vmd/images/vmd_logo_left.gif)](https://www.ks.uiuc.edu/Research/vmd/)    
 [![VESTA](https://jp-minerals.org/vesta/img/banner-logo.png)](https://jp-minerals.org/vesta/en/)    
 [![XCrySDen](http://www.xcrysden.org/img/xcrysden-blue-new.jpg)](http://www.xcrysden.org/)    
