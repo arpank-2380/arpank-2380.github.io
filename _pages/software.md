@@ -88,7 +88,7 @@ These simulations are extreamely useful to simulate nuclear quantum effects from
 
 ### 1. *Ab-initio* packages:   
 
-[![Qbox](assets/image/logos/qbox.png)](http://qboxcode.org/)   
+[![Qbox](/assets/images/logos/qbox.png)](http://qboxcode.org/)   
 
 [![Quantum Espresso](https://www.quantum-espresso.org/wp-content/uploads/2022/03/quantum_ogo_ok.png)](https://www.quantum-espresso.org/)    
 
@@ -109,12 +109,13 @@ These simulations are extreamely useful to simulate nuclear quantum effects from
 
 [![VMD](https://www.ks.uiuc.edu/Research/vmd/images/vmd_logo_left.gif)](https://www.ks.uiuc.edu/Research/vmd/)    
 
-[![VESTA](assets/images/logos/vesta.png)](https://jp-minerals.org/vesta/en/)    
+[![VESTA](/assets/images/logos/vesta.png)](https://jp-minerals.org/vesta/en/)    
 
-[![XCrySDen](http://www.xcrysden.org/img/xcrysden-blue-new.jpg)](http://www.xcrysden.org/)     
+[![XCrySDen](/assets/images/logos/xcrysden.png)](http://www.xcrysden.org/)     
 
 [![Jmol](https://jmol.sourceforge.net/images/Jmol_JSmol_logo.png)](https://jmol.sourceforge.net/)    
 
 ### 4. Analysis Tools:
-[TRAVIS](http://www.travis-analyzer.de/)    
-[![MDAnalysis](https://www.mdanalysis.org/public/mdanalysis-logo_square.png)](https://www.mdanalysis.org/)   
+[TRAVIS](http://www.travis-analyzer.de/)   
+ 
+[![MDAnalysis](/assets/images/logos//mdanalysis.png)](https://www.mdanalysis.org/)   
