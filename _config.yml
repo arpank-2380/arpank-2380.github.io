@@ -54,7 +54,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+    #  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -75,12 +75,18 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/arpan-kundu-27a746251/"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Arpan-Kundu-3"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-5351-3254"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Arpan__Kundu"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/arpan.kundu"
+      #url: "https://www.facebook.com/arpan.kundu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
@@ -99,12 +105,18 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/arpan-kundu-27a746251/"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Arpan-Kundu-3"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-5351-3254"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Arpan__Kundu"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/arpan.kundu"
+      #url: "https://www.facebook.com/arpan.kundu"
 defaults:
   # _posts
   - scope:
