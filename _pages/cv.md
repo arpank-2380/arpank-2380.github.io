@@ -4,7 +4,7 @@ title: "Curriculam Vitae"
 excerpt: "Curriculam Vitae."
 toc: true
 toc_sticky: true
-toc_icon: cv
+toc_icon: user-graduate
 toc_label: "CV"
 ---
 ## Current Affiliation
