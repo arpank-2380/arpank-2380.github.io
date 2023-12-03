@@ -13,9 +13,9 @@ Within my research, I've dedicated myself to crafting theoretical and computatio
 
 My research unfolds in two compelling realms:
 
-A. **Method Developments:** Think of this as building the foundation—the creation of powerful tools that decode the secrets of matter, empowering us to push boundaries and redefine possibilities.
+**A. Method Developments:** Think of this as building the foundation—the creation of powerful tools that decode the secrets of matter, empowering us to push boundaries and redefine possibilities.
 
-B. **Applications:** Here's where theory meets reality. I apply these tools to real-world challenges, channeling their potential to drive innovation across various domains—be it quantum technologies, sustainable energy, or beyond.
+**B. Applications:** Here's where theory meets reality. I apply these tools to real-world challenges, channeling their potential to drive innovation across various domains—be it quantum technologies, sustainable energy, or beyond.
 
 Thank you for joining me on this exhilarating expedition through the realms of science and discovery. Together, let's delve deeper into the boundless potential of research!
 
