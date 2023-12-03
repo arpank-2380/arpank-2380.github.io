@@ -20,6 +20,6 @@ B. **Applications:** Here's where theory meets reality. I apply these tools to r
 Thank you for joining me on this exhilarating expedition through the realms of science and discovery. Together, let's delve deeper into the boundless potential of research!
 
 ## A. Method Developments
-   Currently under constructuin
+   Currently under construction
 ## B. Applications
    Currently under construction
