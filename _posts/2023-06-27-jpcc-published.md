@@ -1,10 +1,6 @@
 ---
 title: "Ab-initio gas separation using MOFs published in JPCC"
 date: 2023-06-27T15:34:30-06:00
-categories:
-  - blogs
-tags:
-  - update
 ---
 ![Image](https://pubs.acs.org/cms/10.1021/acs.jpcc.3c02494/asset/images/medium/jp3c02494_0011.gif)
 
