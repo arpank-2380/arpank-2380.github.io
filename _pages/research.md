@@ -36,9 +36,13 @@ For ages, scientists overlooked this internal ballet, often modeling it with the
 
 In my quest to reveal these hidden dynamics, I develop two distinctive quantum dynamical sampling techniques—(1) stochastic and (2) path-integral methods. These are not just tools; they're portals allowing us to infuse quantum nuclear vibrations into the very fabric of electronic structure calculations. It's the fusion of these worlds that propels us closer to decoding the quantum dance that shapes our materials and technologies.
 
-### 2. *Ab-initio* multi-scale simulations
-         
-Currently under construction.
+### 2. Multi-scale *ab-initio* surface science modeling
+
+Imagine the intricate interplay between a molecule and a surface—a duet that resonates across the vast realms of physics and chemistry. From catalytic wonders to the intricacies of gas technologies, from the artistry of thin films to the promise of nanotechnology—this partnership is the backbone of innovation. Unraveling the mysteries of these interactions, where surfaces whisper secrets to molecules, holds the golden key to unlocking groundbreaking technologies. Yet, it's a labyrinthine journey, demanding simulations that retain microscopic resolution while spanning immense lengths and time scales. Enter my domain—a quest for ingenious multi-scale strategies.
+
+![Image](/assets/images/research/multiscale_simulation.png)
+
+My arsenal? A fusion of quantum chemistry's precision and statistical mechanics' elegance. I navigate the electron's universe with tools like density functional theory (DFT), Møller-Plesset (MP2) theory, and the advanced coupled cluster (CC) and multi-reference (MR) theories. But there's more to this dance! To capture the nucleus' heartbeat, I employ quantum models—harmonic and anharmonic—revealing the rhythm of molecular dynamics. Venturing beyond the atomic realm to the fascinating mesoscale, harnessing the power of precise Monte-Carlo simulations on coarse-grained models or cost-effective Mean-Field theories unveils the intricate unfolding of these processes. Behold the enigmatic artistry: within these multi-scale strategies, there's no singular solution. No uniform concoction of hierarchical theoretical or computational tools can unveil the entirety of the properties we seek to understand.
 
 ### 3. Machine-learning forcefields/properties from *ab initio* simulations
 
