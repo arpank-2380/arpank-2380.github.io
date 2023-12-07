@@ -44,7 +44,7 @@ Imagine the intricate interplay between a molecule and a surface—a duet that r
 
 My arsenal? A fusion of quantum chemistry's precision and statistical mechanics' elegance. I navigate the electron's universe with tools like density functional theory (DFT), Møller-Plesset (MP2) theory, and the advanced coupled cluster (CC) and multi-reference (MR) theories. But there's more to this dance! To capture the nucleus' heartbeat, I employ quantum models—harmonic and anharmonic—revealing the rhythm of molecular dynamics. Venturing beyond the atomic realm to the fascinating mesoscale, harnessing the power of precise Monte-Carlo simulations on coarse-grained models or cost-effective Mean-Field theories unveils the intricate unfolding of these processes. Behold the enigmatic artistry: within these multi-scale strategies, there's no singular solution. No uniform concoction of hierarchical theoretical or computational tools can unveil the entirety of the properties we seek to understand.
 
-### 3. Machine-learning forcefields/properties from *ab initio* simulations
+### 3. AI-enhanced prediction of materials' properties 
 
 Currently under construction. 
   
