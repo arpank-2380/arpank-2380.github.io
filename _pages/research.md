@@ -46,7 +46,15 @@ My arsenal? A fusion of quantum chemistry's precision and statistical mechanics'
 
 ### 3. AI-enhanced prediction of materials' properties 
 
-Currently under construction. 
+Picture this: a bridge spanning the vast gulf between cutting-edge ab initio computational models and the sprawling landscapes of real-time processes. That's precisely where the magic of artificial intelligence steps in. Here's the thrill: sophisticated machine learning—armed with powerful algorithms—holds the key to shrinking the boundaries of time and length scales in computational modeling. But here's the catch—quality data is the bedrock. Without it, the machine's insight is but a mirage.
+
+![Image](/assets/images/research/machine_learning.png)
+
+I thrive on the frontlines of this thrilling expedition: creating a goldmine of reliable ab initio data that fuels the learning engines of machine intelligence. And that's just the beginning. I engineer the perfect language for these machines to comprehend—the right descriptors to unlock their true potential.
+
+My canvas? Quantum materials—a realm where my machine learning models quickly produce ground and excited state forces on nuclei, electronic, and magnetic (spin) properties without the arduous journey through the Schrödinger equation. These models possess the prowess to unveil spin properties, delving into long-term spin dynamics that could reshape the landscape of spintronics, quantum information science, and the very fabric of quantum computing itself.
+
+
   
 ## B. Applications
 
