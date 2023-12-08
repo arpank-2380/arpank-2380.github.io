@@ -52,7 +52,7 @@ Picture this: a bridge spanning the vast gulf between cutting-edge ab initio com
 
 I thrive on the frontlines of this thrilling expedition: creating a goldmine of reliable ab initio data that fuels the learning engines of machine intelligence. And that's just the beginning. I engineer the perfect language for these machines to comprehend—the right descriptors to unlock their true potential.
 
-My canvas? Quantum materials—a realm where my machine learning models quickly produce ground and excited state forces on nuclei, electronic, and magnetic (spin) properties without the arduous journey through the Schrödinger equation. These models possess the prowess to unveil spin properties, delving into long-term spin dynamics that could reshape the landscape of spintronics, quantum information science, and the very fabric of quantum computing itself.
+My canvas? Quantum materials—a realm where my machine learning models quickly produce ground and excited state forces on nuclei, electronic, and magnetic (spin) properties without the arduous journey through the Schrödinger equation. These models possess the prowess to unveil electronic properties, delving into spin dynamics that could reshape the landscape of spintronics, quantum information science, and the very fabric of quantum computing itself.
 
 
   
