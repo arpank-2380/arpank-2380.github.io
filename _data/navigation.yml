@@ -1,10 +1,10 @@
 main:
+  - title: "Research"
+    url: /research/
   - title: "CV"
     url: /cv/
   - title: "Publications"
     url: /publications/
-  - title: "Research"
-    url: /research/
   - title: "Software"
     url: /software/
   - title: "Posts"
