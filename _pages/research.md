@@ -69,4 +69,8 @@ The landscape of quantum technologies brims with potential, from quantum sensing
 My focus? Semiconductor spin defects—these optically addressable spins offer a glimpse into room-temperature qubits. Yet, challenges abound. Extending spin coherence grapples with the elusive limits dictated by quantum vibronic effects.
 
 I immerse myself in decoding the intricacies of optical spin detection, meticulously dissecting the nuances of spin-lattice and spin-spin interactions. From nitrogen-vacancy centers in diamond to divacancies in silicon carbide, these materials hold the promise of room-temperature quantum devices. But my journey doesn't halt there—I venture into the domain of computer-assisted chemical modifications, paving the way for superior quantum materials.
+
+### 2. Organic Electronic Materials
+
+*This section is currently under construction*
  
