@@ -58,6 +58,8 @@ My canvas? Quantum materials—a realm where my machine learning models quickly 
   
 ## B. Applications
 
+*This section is currently under construction*
+
 ### 1. Materials Advancing Quantum Technologies
 
 The landscape of quantum technologies brims with potential, from quantum sensing to communication and beyond. While current prototypes rely on superconducting spin-Qubits at cryogenic temperatures, the true frontier lies in unlocking their capabilities at room temperature—an innovation that fuels my passion.
@@ -68,4 +70,3 @@ My focus? Semiconductor spin defects—these optically addressable spins offer a
 
 I immerse myself in decoding the intricacies of optical spin detection, meticulously dissecting the nuances of spin-lattice and spin-spin interactions. From nitrogen-vacancy centers in diamond to divacancies in silicon carbide, these materials hold the promise of room-temperature quantum devices. But my journey doesn't halt there—I venture into the domain of computer-assisted chemical modifications, paving the way for superior quantum materials.
  
-*This section is currently under construction*
