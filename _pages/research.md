@@ -80,6 +80,13 @@ However, the path to efficiency is a winding one. Hindered by short exciton diff
 
 Armed with first-principle methods, I embark on unraveling these mysteries, seeking solutions to these challenges that stand between us and a greener, more efficient tomorrow.
 
+### 3. Gas Separation & Storage using Porous Materials
+
+Gas separation and storage applications are pivotal in addressing sustainability challenges—separating CO<sub>2</sub> from flue gas, storing energy-rich molecules like CH<sub>4</sub> or H<sub>2</sub>, producing drinking water via humidity capture, and even in gas mask development. Porous crystalline solids, namely metal-organic frameworks (MOFs) and covalent organic frameworks (COFs), possess high porosity, extensive surface areas, and adaptable cross-linking capabilities. These materials can be precisely tailored to meet specific gas separation and storage needs.
+
+![Image](/assets/images/research/gas_separation.png)
+
+Assessing the working conditions necessary for a particular MOF or COF in addressing a gas separation challenge becomes a crucial determinant of its synthesis viability. Therefore, employing multi-scale simulation methodologies becomes essential. These simulations delve into the physicochemical processes, exploring co-adsorption equilibria and gas diffusion within the pores. Ultimately, my goal is to weave a comprehensive thread of knowledge, bridging the intricacies of chemical bonds to the practical applications in chemical plants.
 
 *This section is currently under construction*
  
