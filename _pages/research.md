@@ -58,8 +58,6 @@ My canvas? Quantum materials—a realm where my machine learning models quickly 
   
 ## B. Applications
 
-*This section is currently under construction*
-
 ### 1. Materials Advancing Quantum Technologies
 
 The landscape of quantum technologies brims with potential, from quantum sensing to communication and beyond. While current prototypes rely on superconducting spin-Qubits at cryogenic temperatures, the true frontier lies in unlocking their capabilities at room temperature—an innovation that fuels my passion.
@@ -88,5 +86,4 @@ Gas separation and storage applications are pivotal in addressing sustainability
 
 Assessing the working conditions necessary for a particular MOF or COF in addressing a gas separation challenge becomes a crucial determinant of its synthesis viability. Therefore, employing multi-scale simulation methodologies becomes essential. These simulations delve into the physicochemical processes, exploring co-adsorption equilibria and gas diffusion within the pores. Ultimately, my goal is to weave a comprehensive thread of knowledge, bridging the intricacies of chemical bonds to the practical applications in chemical plants.
 
-*This section is currently under construction*
  
