@@ -72,5 +72,14 @@ I immerse myself in decoding the intricacies of optical spin detection, meticulo
 
 ### 2. Organic Electronic Materials
 
+In the pursuit of a sustainable energy future, two critical fronts emerge: the clean energy generation, epitomized by solar power, and the design of eco-conscious, high-efficiency electronics. Step onto the scene: organic molecules, polymers, and carbon nanomaterials—a trio at the forefront of this pursuit. Not only environmentally friendly, these materials boast electronic adaptability, fine-tuning their capabilities through meticulous packing or subtle chemical tweaks.
+
+![Image](/assets/images/research/organic_electronics.png)
+
+However, the path to efficiency is a winding one. Hindered by short exciton diffusion lengths and subpar carrier mobilities due to inherent static and dynamic disorders, achieving peak performance remains elusive. Among the myriad possibilities, the most efficient packing arrangement demands an extensive exploration.
+
+Armed with first-principle methods, I embark on unraveling these mysteries, seeking solutions to these challenges that stand between us and a greener, more efficient tomorrow.
+
+
 *This section is currently under construction*
  
