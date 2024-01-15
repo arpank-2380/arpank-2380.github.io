@@ -1,5 +1,5 @@
 ---
-title: "Quantum Vibronic Effects on the Excitation Energies of the Nitrogen-Vacancy Center in Diamond"
+title: "Quantum vibronic effects on the excitation energies of the nitrogen-vacancy center in diamond"
 date: 2024-01-14T20:30:00-06:00
 ---
 When a pair of adjacent carbon atoms within a diamond crystal is replaced with a nitrogen atom and a lattice vacancy,
