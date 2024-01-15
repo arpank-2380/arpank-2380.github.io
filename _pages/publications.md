@@ -7,6 +7,11 @@ Publications are ordered reverse chronologically.
 
 \* =  Corresponding Author
 
+14. **Quantum vibronic effects on the excitation energies of the nitrogen-vacancy center in diamond.**
+![Image](/assets/images/pubs/jpcl2024_1.png)
+**Kundu, A.\*;** Galli, G.\*
+[*J. Phys. Chem. Lett.* **2024**, In Press](https://arxiv.org/abs/2401.06745)
+
 13. **Quantum vibronic effects on the electronic properties of molecular crystals.** 
 ![Image](/assets/images/pubs/jctc2023.png)   
 **Kundu, A.\*;** Galli, G.\*   
