@@ -35,7 +35,6 @@ This scrutiny not only deepened our understanding of the intricacies involved bu
 served as a valuable checkpoint for the broader scientific community. 
 Our journey into the quantum world not only sheds light on the dynamics of NV-center excitations 
 but also challenges prevailing assumptions in theoretical frameworks. 
-For a detailed dive into our findings, you can explore the following preprint: 
-[arXiv:2401.06745 ](https://arxiv.org/abs/2401.06745)
-which is accepted in 
-[J. Phys. Chem. Lett. (currently in Press)](https://doi.org/10.1021/acs.jpclett.3c03269). 
+For a detailed dive into our findings, you can explore our article: 
+[J. Phys. Chem. Lett. **2024**, *15*, 802 ](https://doi.org/10.1021/acs.jpclett.3c03269) or the
+preprint: [arXiv:2401.06745 ](https://arxiv.org/abs/2401.06745). 
