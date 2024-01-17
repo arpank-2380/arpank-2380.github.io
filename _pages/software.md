@@ -18,7 +18,7 @@ I developed the following three open-source packages.
 ![](https://github.com/arpank-2380/PyEPFD/raw/master/docs/source/pyepfd_logo.png){: style="margin-top: 0.5em;"}
 
 
-PyEPFD [code repository](https://github.com/arpank-2380/PyEPFD) 
+PyEPFD ([code repository](https://github.com/arpank-2380/PyEPFD)) 
 stands for a Python Library for Electron-Phonon coupling
 from Finite Displacements.
 
