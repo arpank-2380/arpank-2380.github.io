@@ -9,7 +9,7 @@ toc_label: "CV"
 ---
 ## Current Affiliation
 [![UC-logo](/assets/images/logos/uc-logo.png){: .align-right}](https://pme.uchicago.edu/)
-   Post-doctoral Scholar    
+   Staff Scientist    
    [Galli Group](https://galligroup.uchicago.edu/)  
    Pritzker School of Molecular Engineering    
    The University of Chicago   
@@ -37,7 +37,9 @@ toc_label: "CV"
    Rank: 6<sup>th</sup>
 
 ## Experience
-+ 2019 - Present: Postdoc at University of Chicago   
++ 2024 - Present: Staff Scientist at University of Chicago
+
++ 2019 - 2024: Postdoc at University of Chicago   
 
 +  2018 - 2019  : Postdoc at Humboldt Universitat zy Berlin   
 
