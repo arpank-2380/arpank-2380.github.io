@@ -8,7 +8,7 @@ Publications are ordered reverse chronologically.
 \* =  Corresponding Author
 
 15. **Nuclear quantum effects on the electronic structure of water and ice.**  
-![Image](/assets/images/pubs/jpcl2024_2.png)
+![Image](/assets/images/pubs/jpcl2024_2.png)      
 Berrens, M. L.; **Kundu, A**; Calegari-Andrade, M. F.; Anh-Pham, T; Galli, G.; Donadio, D.\*      
 [*J. Phys. Chem. Lett.* **2024**, *15*, 6818](https://doi.org/10.1021/acs.jpclett.4c01315)
 
