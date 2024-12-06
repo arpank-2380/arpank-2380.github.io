@@ -82,7 +82,7 @@ Yang, H; Govoni, M\*; **Kundu, A;** Galli, G.\*
  
 5. **Ab Initio Prediction of Adsorption Isotherms for Gas Mixtures by Grand Canonical Monte Carlo Simulations on a Lattice of Sites.**   
 ![Image](/assets/images/pubs/jpcl2017.png)   
-**Kundu, A\#;** Sillar, K\#; Sauer, J.\*   
+**Kundu, A<sup>\#</sup>;** Sillar, K<sup>\#</sup>; Sauer, J.\*   
 [*J. Phys. Chem. Lett.* **2017**, 8, 2713.](https://doi.org/10.1021/acs.jpclett.7b01205) 
 
 
