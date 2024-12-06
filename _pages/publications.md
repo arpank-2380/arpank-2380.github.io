@@ -5,7 +5,10 @@ title: "Publications"
 
 Publications are ordered reverse chronologically.
 
-\* =  Corresponding Author
+\* =  Corresponding Author ; \# = Equal authorship
+16. **Designing Optically Addressable Nitrogen-Vacancy Centers in Ultra-Small Nanodiamonds: Insights from First-Principles Calculations.**   
+**Kundu, A.\*\#;** Martinelli, F.\#; Galli, G.\*  
+[*arXiv:2412.01976*](https://doi.org/10.48550/arXiv.2412.01976)
 
 15. **Nuclear quantum effects on the electronic structure of water and ice.**  
 ![Image](/assets/images/pubs/jpcl2024_2.png)      
@@ -77,7 +80,7 @@ Yang, H; Govoni, M\*; **Kundu, A;** Galli, G.\*
  
 5. **Ab Initio Prediction of Adsorption Isotherms for Gas Mixtures by Grand Canonical Monte Carlo Simulations on a Lattice of Sites.**   
 ![Image](/assets/images/pubs/jpcl2017.png)   
-**Kundu, A;** Sillar, K; Sauer, J.\*   
+**Kundu, A\#;** Sillar, K\#; Sauer, J.\*   
 [*J. Phys. Chem. Lett.* **2017**, 8, 2713.](https://doi.org/10.1021/acs.jpclett.7b01205) 
 
 
