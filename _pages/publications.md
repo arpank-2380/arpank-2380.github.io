@@ -6,6 +6,7 @@ title: "Publications"
 Publications are ordered reverse chronologically.
 
 \* =  Corresponding Author ; \# = Equal authorship
+
 16. **Designing Optically Addressable Nitrogen-Vacancy Centers in Ultra-Small Nanodiamonds: Insights from First-Principles Calculations.**   
 **Kundu, A.\*\#;** Martinelli, F.\#; Galli, G.\*  
 [*arXiv:2412.01976*](https://doi.org/10.48550/arXiv.2412.01976)
