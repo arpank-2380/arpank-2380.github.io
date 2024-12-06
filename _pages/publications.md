@@ -9,7 +9,7 @@ Publications are ordered reverse chronologically.
 
 16. **Designing Optically Addressable Nitrogen-Vacancy Centers in Ultra-Small Nanodiamonds: Insights from First-Principles Calculations.**   
 ![Image](/assets/images/pubs/toc_nv-nanodiamond-2024.png)    
-**Kundu, A.\*<sup>\#</sup>;** Martinelli, F.<sup>\#</sup>; Galli, G.\*
+**Kundu, A.\*<sup>\#</sup>;** Martinelli, F.<sup>\#</sup>; Galli, G.\*    
 [*arXiv:2412.01976*](https://doi.org/10.48550/arXiv.2412.01976)
 
 15. **Nuclear quantum effects on the electronic structure of water and ice.**  
