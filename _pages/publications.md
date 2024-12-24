@@ -7,7 +7,18 @@ Publications are ordered reverse chronologically.
 
 \* =  Corresponding Author ; <sup>\#</sup> = Equal authorship
 
-16. **Designing Optically Addressable Nitrogen-Vacancy Centers in Ultra-Small Nanodiamonds: Insights from First-Principles Calculations.**   
+18. **Unlocking mesoscopic disorder in graphitic carbon with spectroelectrochemistry.**
+![Image](/assets/images/pubs/angew2024.png)        
+Papadopoulos, R<sup>\#</sup>; Masters, B<sup>\#</sup>; **Kundu, A<sup>\#</sup>**; Maldonado, N;
+Filatov, A. S.; Liu, Y; Kim, T; Galli, G.; Wuttig, A.\*
+*Angew. Chem. Intl. Ed. (Accepted)*
+
+17. **Supercritical water: density independent angular jumps.**
+![Image](/assets/images/pubs/sc-water.png)     
+Choudhary, A.\*; **Kundu, A**; Singh, C; Sharma, A; Pant, K. K.\*; Chandra, A.\*
+*J. Phys. Chem. B (Accepted)*   
+
+16. **Designing optically addressable nitrogen-vacancy centers in ultra-small nanodiamonds: Insights from First-Principles Calculations.**   
 ![Image](/assets/images/pubs/toc_nv-nanodiamond-2024.png)    
 **Kundu, A.\*<sup>\#</sup>;** Martinelli, F.<sup>\#</sup>; Galli, G.\*    
 [*arXiv:2412.01976*](https://doi.org/10.48550/arXiv.2412.01976)
