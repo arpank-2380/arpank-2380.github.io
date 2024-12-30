@@ -8,10 +8,10 @@ Publications are ordered reverse chronologically.
 \* =  Corresponding Author ; <sup>\#</sup> = Equal authorship
 
 18. **Unlocking mesoscopic disorder in graphitic carbon with spectroelectrochemistry.**    
-![Image](/assets/images/pubs/angew2024.png)        
+![Image](/assets/images/pubs/angewandte_2024.png)        
 Papadopoulos, R<sup>\#</sup>; Masters, B<sup>\#</sup>; **Kundu, A<sup>\#</sup>**; Maldonado, N;
 Filatov, A. S.; Liu, Y; Kim, T; Galli, G.; Wuttig, A.\*    
-*Angew. Chem. Intl. Ed. (Accepted)*
+*Angew. Chem. Intl. Ed. (Accepted)* [DOI: 10.1002/anie.202420680](https://onlinelibrary.wiley.com/doi/10.1002/anie.202420680)
 
 17. **Supercritical water: density independent angular jumps.**    
 ![Image](/assets/images/pubs/sc-water.png)     
