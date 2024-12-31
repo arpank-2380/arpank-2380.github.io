@@ -16,7 +16,7 @@ Filatov, A. S.; Liu, Y; Kim, T; Galli, G.; Wuttig, A.\*
 17. **Supercritical water: density independent angular jumps.**    
 ![Image](/assets/images/pubs/sc-water.png)     
 Choudhary, A.\*; **Kundu, A**; Singh, C; Sharma, A; Pant, K. K.\*; Chandra, A.\*     
-*J. Phys. Chem. B (Accepted)*   
+*J. Phys. Chem. B (Accepted)* [DOI:10.1021/acs.jpcb.4c05676](https://pubs.acs.org/doi/10.1021/acs.jpcb.4c05676)  
 
 16. **Designing optically addressable nitrogen-vacancy centers in ultra-small nanodiamonds: Insights from First-Principles Calculations.**   
 ![Image](/assets/images/pubs/toc_nv-nanodiamond-2024.png)    
