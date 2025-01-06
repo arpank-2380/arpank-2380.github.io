@@ -1,6 +1,6 @@
 ---
 title: "PyEPFD-1.1 Released"
-date: 2024-01-05T21:30:00-06:00
+date: 2025-01-05T21:30:00-06:00
 ---
 
 I am happy to announce a new release of [PyEPFD](https://pyepfd.readthedocs.io/en/latest/): A Python library for computing Electron-Phonon interactions from Finite Displacements.
