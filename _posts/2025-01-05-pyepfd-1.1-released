@@ -1,0 +1,41 @@
+---
+title: "PyEPFD-1.1 Released"
+date: 2024-01-05T21:30:00-06:00
+---
+
+I am happy to announce a new release of [PyEPFD](https://pyepfd.readthedocs.io/en/latest/): A Python library for computing Electron-Phonon interactions from Finite Displacements.
+I have added several new features to this major release of PyEPFD. Below is a short description of those features.
+
+![PyEPFD Logo](https://pyepfd.readthedocs.io/en/latest/_static/pyepfd_logo.png) 
+
+Several features were added to this major release of PyEPFD.
+
+### 1. Interfaces to new Ab Initio Codes
+Only [Qbox](http://qboxcode.org/) was coupled to PyEPFD in the previous release. In this latest release, I built the following new interfaces:
+1. [Quantum Espresso(QE)](https://www.quantum-espresso.org/)
+2. [WEST](https://west-code.org/)
+3. [ORCA](https://www.faccts.de/orca/)
+
+The first two interfaces enabled us to quantify the quantum vibronic effects on the vertical excitation energies of spin-defects in diamond; see the [JPC Lett.](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.3c03269) paper to learn more.
+
+### 2. MPI4Py Acceleration 
+The following normal mode samplings, 
+1. NMFD: Normal Mode Finite Displacement,
+2. ENMFD: Energy-scaled Normal Mode Finite Displacement,
+3. NMS: Normal Mode Sampling,
+5. ENMS: Energy-scaled Normal Mode Sampling
+
+and stochastic algorithms,
+
+1.  OSR: One Shot Random Sampling of Thermal Lines, 
+2. OSRAP: One Shot Random Sampling of Thermal Lines with Antithetic Pairs,
+3. MC: Monte Carlo Sampling, 
+4. MCAP: Monte Carlo with antithetic pairs, 
+
+are now parallelized with MPI4Py.
+
+### 3. Infra-red (IR) Spectra Calculation
+Now PyEPFD can calculate IR spectra using double harmonic approximation, a standard approach implemented in quantum chemistry codes such as Gaussian, Orca, etc. However, many plane wave packages (Qbox, QE) do not have this feature as the standard protocol here is density functional perturbation theory (DFPT), which is often very expensive for large supercells required for studying defects or amorphous solids. See the recent [Angewandte](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202420680) article to learn more about how we used this tool to identify applied electrostatic potential dependent IR features of bulk amorphous graphene-oxide.  
+
+### 4. Fluctuations and Renormalization of electron(spin) densities.
+New tools were developed that allow one to compute the fluctuation and renormalization of electron(spin) densities due to the quantum motion of the nuclei. This would be printed as cube files which can be visualized by VMD, VESTA, etc.
