@@ -17,7 +17,7 @@ Publications are ordered reverse chronologically.
 ![Image](/assets/images/pubs/angewandte_2024.png)        
 Papadopoulos, R<sup>\#</sup>; Masters, B<sup>\#</sup>; **Kundu, A<sup>\#</sup>**; Maldonado, N;
 Filatov, A. S.; Liu, Y; Kim, T; Galli, G.; Wuttig, A.\*    
-[*Angew. Chem. Intl. Ed. (Accepted)* **2025**, e202420680](https://onlinelibrary.wiley.com/doi/10.1002/anie.202420680)
+[*Angew. Chem. Intl. Ed.* **2025**, e202420680](https://onlinelibrary.wiley.com/doi/10.1002/anie.202420680)
 
 16. **Supercritical water: density independent angular jumps.**    
 ![Image](/assets/images/pubs/sc-water.png)     
