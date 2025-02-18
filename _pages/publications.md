@@ -7,21 +7,23 @@ Publications are ordered reverse chronologically.
 
 \* =  Corresponding Author ; <sup>\#</sup> = Equal authorship
 
-18. **Unlocking mesoscopic disorder in graphitic carbon with spectroelectrochemistry.**    
+18. **Designing optically addressable nitrogen-vacancy centers in ultra-small nanodiamonds: Insights from First-Principles Calculations.**   
+![Image](/assets/images/pubs/toc_nv-nanodiamond-2024.png)    
+**Kundu, A.\*<sup>\#</sup>;** Martinelli, F.<sup>\#</sup>; Galli, G.\*    
+[*J. Phys. Chem. Lett.* **2025**, 16, 1973](https://doi.org/10.1021/acs.jpclett.5c00355) 
+
+
+17. **Unlocking mesoscopic disorder in graphitic carbon with spectroelectrochemistry.**    
 ![Image](/assets/images/pubs/angewandte_2024.png)        
 Papadopoulos, R<sup>\#</sup>; Masters, B<sup>\#</sup>; **Kundu, A<sup>\#</sup>**; Maldonado, N;
 Filatov, A. S.; Liu, Y; Kim, T; Galli, G.; Wuttig, A.\*    
-*Angew. Chem. Intl. Ed. (Accepted)* [DOI: 10.1002/anie.202420680](https://onlinelibrary.wiley.com/doi/10.1002/anie.202420680)
+[*Angew. Chem. Intl. Ed. (Accepted)* **2025**, e202420680](https://onlinelibrary.wiley.com/doi/10.1002/anie.202420680)
 
-17. **Supercritical water: density independent angular jumps.**    
+16. **Supercritical water: density independent angular jumps.**    
 ![Image](/assets/images/pubs/sc-water.png)     
 Choudhary, A.\*; **Kundu, A**; Singh, C; Sharma, A; Pant, K. K.\*; Chandra, A.\*     
 [*J. Phys. Chem. B* **2025**, 129, 329](https://pubs.acs.org/doi/10.1021/acs.jpcb.4c05676)  
 
-16. **Designing optically addressable nitrogen-vacancy centers in ultra-small nanodiamonds: Insights from First-Principles Calculations.**   
-![Image](/assets/images/pubs/toc_nv-nanodiamond-2024.png)    
-**Kundu, A.\*<sup>\#</sup>;** Martinelli, F.<sup>\#</sup>; Galli, G.\*    
-[*arXiv:2412.01976*](https://doi.org/10.48550/arXiv.2412.01976)
 
 15. **Nuclear quantum effects on the electronic structure of water and ice.**  
 ![Image](/assets/images/pubs/jpcl2024_2.png)      
