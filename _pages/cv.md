@@ -8,8 +8,13 @@ toc_icon: user-graduate
 toc_label: "CV"
 ---
 ## Current Affiliation
+[![PsiQuantum](/assets/images/logos/PsiQ-logo.png){: .align-right}](https://www.psiquantum.com/)
+Senior Quantum Solutions Computational Chemist    
+PsiQuantum
+
+## Past Affiliations
 [![UC-logo](/assets/images/logos/uc-logo.png){: .align-right}](https://pme.uchicago.edu/)
-   Staff Scientist    
+   Post-Doctoral Scholar / Staff Scientist    
    [Galli Group](https://galligroup.uchicago.edu/)  
    Pritzker School of Molecular Engineering    
    The University of Chicago   
