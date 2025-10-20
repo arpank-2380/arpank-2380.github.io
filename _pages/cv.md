@@ -23,7 +23,7 @@ PsiQuantum
 [![HU-Logo](/assets/images/logos/HU_logo.png){: .align-right}](https://www.chemie.hu-berlin.de/en/forschung-en/standardseite-en)
 + **Ph.D. (2018)**     
   Humboldt-Universitat zu Berlin    
-  Dicipline: Theoretical Chemistry    
+  Discipline: Theoretical Chemistry    
   Grade: *summa cum laude*    
   Dissertation: [Ab initio prediction of isotherms for pure and mixed gas adsorption in metal-organic frameworks](http://dx.doi.org/10.13140/RG.2.2.16512.58882)    
   Advisor: [Prof. Joachim Sauer](https://www.chemie.hu-berlin.de/de/forschung/quantenchemie/Group/js-1)
@@ -31,18 +31,20 @@ PsiQuantum
 [![IITK-Logo](/assets/images/logos/iitk-logo.png){: .align-right}](https://www.iitk.ac.in/chm/)
 + **M.Sc. (2011)**   
   IIT Kanpur    
-  Dicipline: Chemistry     
+  Discipline: Chemistry     
   Rank: 1<sup>st</sup>      
   Thesis: [Dynamical behavior of supercritical aqueous solutions: Orientational motion and angular jumps](http://dx.doi.org/10.13140/RG.2.2.10428.10884)
 
 [![JU-Logo](/assets/images/logos/ju-logo.png){: .align-right}](https://jadavpuruniversity.in/)
 +  **B.Sc. (2009)**   
    Jadavpur University   
-   Dicipline: Chemistry(Major), Physics, Mathematics, Computer Programming    
+   Discipline: Chemistry(Major), Physics, Mathematics, Computer Programming    
    Rank: 6<sup>th</sup>
 
 ## Experience
-+ 2024 - Present: Staff Scientist at University of Chicago
++ 2025 - Present: Senior Quantum Solutions Computational Chemist at PsiQuantum
+
++ 2024 - 2025: Staff Scientist at University of Chicago
 
 + 2019 - 2024: Postdoc at University of Chicago   
 
