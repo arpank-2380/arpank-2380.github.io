@@ -7,6 +7,12 @@ Publications are ordered reverse chronologically.
 
 \* =  Corresponding Author ; <sup>\#</sup> = Equal authorship
 
+
+19. **Defects at play: Shaping the photophysics and photochemistry of ice.**   
+![Image](https://pme.uchicago.edu/sites/default/files/styles/max_width_full/public/2025-11/galli.png?itok=eeDv4J2b)
+Monti, M.\*<sup>\#</sup>; Jin, Y.; Gonzalo-Díaz, M; **Kundu, A**; Govoni, M.; Galli, G.\*<sup>\#</sup>; Hassanali, A\*<sup>\#</sup>
+[*Proc. Natl. Acad. Sci. USA* **2025**, *122(47)*, e2516805122.](https://doi.org/10.1073/pnas.2516805122)    
+
 18. **Designing optically addressable nitrogen-vacancy centers in ultra-small nanodiamonds: Insights from First-Principles Calculations.**   
 ![Image](/assets/images/pubs/toc_nv-nanodiamond-2024.png)    
 **Kundu, A.\*<sup>\#</sup>;** Martinelli, F.<sup>\#</sup>; Galli, G.\*    
