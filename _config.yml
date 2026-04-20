@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Arpan Kundu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a computational chemist with expertise in quantum chemistry, advanced multi-scale simulation methods, and open-source scientific software developments."
+  bio    : "I am a Senior Quantum Solutions Computational Chemist at [PsiQuantum](https://www.psiquantum.com/) with expertise in quantum chemistry, multi-scale simulation methods, scientific software development, and quantum–classical workflows integrating quantum computing, machine learning, and computational chemistry for materials, catalysis, and molecular design."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
