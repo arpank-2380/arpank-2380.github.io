@@ -20,7 +20,7 @@ Monti, M.\*; Jin, Y.; Gonzalo-Díaz, M; **Kundu, A**; Govoni, M.; Galli, G.\*; H
 
 
 17. **Unlocking mesoscopic disorder in graphitic carbon with spectroelectrochemistry.**    
-![Image](/assets/images/pubs/angewandte_2024.png)        
+![Image](/assets/images/pubs/angewandte_2024.PNG)        
 Papadopoulos, R<sup>\#</sup>; Masters, B<sup>\#</sup>; **Kundu, A<sup>\#</sup>**; Maldonado, N;
 Filatov, A. S.; Liu, Y; Kim, T; Galli, G.; Wuttig, A.\*    
 [*Angew. Chem. Intl. Ed.* **2025**, e202420680](https://onlinelibrary.wiley.com/doi/10.1002/anie.202420680)
@@ -32,7 +32,7 @@ Choudhary, A.\*; **Kundu, A**; Singh, C; Sharma, A; Pant, K. K.\*; Chandra, A.\*
 
 
 15. **Nuclear quantum effects on the electronic structure of water and ice.**  
-![Image](/assets/images/pubs/jpcl2024_2.png)      
+![Image](/assets/images/pubs/jpcl2024_2.PNG)      
 Berrens, M. L.; **Kundu, A**; Calegari-Andrade, M. F.; Anh-Pham, T; Galli, G.; Donadio, D.\*      
 [*J. Phys. Chem. Lett.* **2024**, *15*, 6818](https://doi.org/10.1021/acs.jpclett.4c01315)
 
@@ -65,7 +65,7 @@ Yang, H; Govoni, M\*; **Kundu, A;** Galli, G.\*
 
 
 10. **Influence of nuclear quantum effects on the electronic properties of amorphous carbon.**
-![Image](/assets/images/pubs/pnas2022.png)   
+![Image](/assets/images/pubs/pnas2022.PNG)   
 **Kundu, A.\*;** Song, Y.; Galli, G.\*    
 [*Proc. Natl. Acad. Sci. USA* **2022**, *119(31)*, e2203083119.](https://doi.org/10.1073/pnas.2203083119)
 
