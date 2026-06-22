@@ -7,10 +7,14 @@ Publications are ordered reverse chronologically.
 
 \* =  Corresponding Author ; <sup>\#</sup> = Equal authorship
 
+20. **RLEASE: Reinforcement Learning Efficient Active Space Engine.**      
+![Image](https://images.squarespace-cdn.com/content/v1/63bdc0806d7fbd5344be5be2/1781038884262-5GBWBTTRI87XDM1T23UR/RLEASE_Artwork_3.png)
+Osaro, E.\*; Mitra, A.; Jenkins, A. J.; Parkar, K. A.; Lavroff R. H.; Neufeld V. A.; **Kundu, A.**; Kakekhani, A.\*; Rocca, D.\*       
+[arXiv:2606.07879](https://arxiv.org/abs/2606.07879)
 
 19. **Defects at play: Shaping the photophysics and photochemistry of ice.**   
 ![Image](https://pme.uchicago.edu/sites/default/files/styles/wide/public/2025-11/galli.png.webp?itok=2DhD00_W)      
-Monti, M.\*; Jin, Y.; Gonzalo-Díaz, M; **Kundu, A**; Govoni, M.; Galli, G.\*; Hassanali, A.\*           
+Monti, M.\*; Jin, Y.; Gonzalo-Díaz, M; **Kundu, A**; Govoni, M.; Galli, G.\*; Hassanali, A.\*          
 [*Proc. Natl. Acad. Sci. USA* **2025**, *122(47)*, e2516805122.](https://doi.org/10.1073/pnas.2516805122)    
 
 18. **Designing optically addressable nitrogen-vacancy centers in ultra-small nanodiamonds: Insights from First-Principles Calculations.**   
