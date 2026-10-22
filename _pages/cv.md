@@ -9,7 +9,7 @@ toc_label: "CV"
 ---
 ## Current Affiliation
 [![PsiQuantum](/assets/images/logos/PsiQ-logo.png){: .align-right}](https://www.psiquantum.com/)
-Senior Computational Scientist    
+Manager, Quantum Computational Chemistry    
 PsiQuantum
 
 ## Past Affiliations
@@ -42,7 +42,9 @@ PsiQuantum
    Rank: 6<sup>th</sup>
 
 ## Experience
-+ 2025 - Present: Senior Computational Scientist at PsiQuantum
++ 2026 - Present: Manager, Quantum Computational Chemistry at PsiQuantum
+
++ 2025 - 2026: Senior Computational Scientist at PsiQuantum
 
 + 2024 - 2025: Staff Scientist at University of Chicago
 
