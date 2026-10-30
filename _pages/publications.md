@@ -7,6 +7,12 @@ Publications are ordered reverse chronologically.
 
 \* =  Corresponding Author ; <sup>\#</sup> = Equal authorship
 
+21. **First-principles cumulant approach to the vibronic structure of spin defects**
+![Image](/assets/images/pubs/prb-2026.png)
+Park, J.\*; Jin, Y.; **Kundu, A**; Sofo, J\*; Galli, G\*
+[Phys. Rev. B, Accepted Sep 2026](https://journals.aps.org/prb/accepted/10.1103/7xrx-2fd2)
+[arXiv:2608.11687](https://arxiv.org/abs/2608.11687) 
+
 20. **RLEASE: Reinforcement Learning Efficient Active Space Engine.**      
 ![Image](https://images.squarespace-cdn.com/content/v1/63bdc0806d7fbd5344be5be2/1781038884262-5GBWBTTRI87XDM1T23UR/RLEASE_Artwork_3.png)
 Osaro, E.\*; Mitra, A.; Jenkins, A. J.; Parkar, K. A.; Lavroff R. H.; Neufeld V. A.; **Kundu, A.**; Kakekhani, A.\*; Rocca, D.\*       
